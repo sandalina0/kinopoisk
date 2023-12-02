@@ -1,0 +1,44 @@
+.block{
+    width: 450px;
+    margin: 5px;
+    height: 100px;
+}
+
+.float{
+    float: left;
+}
+
+.nav{
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+}
+
+.b1{
+    width: 850px;
+}
+
+.f1{
+    float: right;
+}
+
+.b2{
+    width: 400px;
+    margin: 15px;  
+}
+
+.f2{
+    float: left;
+}
+
+.table{
+    display: block;
+    width: 400px;
+    height: 300px;
+}
+
+.footer{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
